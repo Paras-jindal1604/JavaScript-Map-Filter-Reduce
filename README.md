@@ -13,11 +13,11 @@ Understanding these concepts is essential for writing clean, functional, and mod
 
 ## 📌 Table of Contents
 
-1. [forEach](#1-foreach)
-2. [map](#2-map)
-3. [filter](#3-filter)
-4. [reduce](#4-reduce)
-5. [Callback Functions](#5-callback-functions)
+1. forEach
+2. map
+3. filter
+4. reduce
+5. Callback Functions
 
 ---
 
